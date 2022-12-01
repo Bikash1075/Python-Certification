@@ -1,4 +1,4 @@
-# problem 5
+# problem 5 swapcase
 def swap_case(s):
     return s.swapcase()
 

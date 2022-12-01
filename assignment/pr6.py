@@ -1,4 +1,4 @@
-# problem 6
+# problem 6 arithmetic operators
 if __name__ == '__main__':
     a = int(input())
     b = int(input())

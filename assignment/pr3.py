@@ -1,4 +1,4 @@
-# problem 3
+# problem 3 set intersection
 n= int(input())
 s1=set(map(int,input().split()))
 n=int(input())

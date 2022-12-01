@@ -1,4 +1,4 @@
-# problem 1
+# problem 1 finding percentage
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}

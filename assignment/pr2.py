@@ -1,4 +1,4 @@
-# problem 2
+# problem 2 string_split and join
 def split_and_join(line):
     # l= line.split(" ")
     s="-".join(line.split(" "))

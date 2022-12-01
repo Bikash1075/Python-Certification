@@ -1,4 +1,4 @@
-# problem 8
+# problem 8 if else "Weird" and "Not Weird"
 import math
 import os
 import random
